@@ -29,7 +29,7 @@
 			$StatusID = $this->GetIDForIdent("KirschStatus");
 			IPS_LogMessage("BHKW statePP StatusID", $StatusID);
 			
-			rIdent("Drosselklapenstellung")  , $ScriptData['V2']);
+
 			
 		}
 	}
