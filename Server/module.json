@@ -1,0 +1,12 @@
+{
+    "id": "{{719BFE65-B1ED-B779-1BA7-31EB7F3A6A47}}",
+    "name": "IPSCopy",
+    "type": 0,
+    "vendor": "Dierk",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "IPSVarCopy",
+    "url": ""
+}
